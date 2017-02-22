@@ -7,14 +7,14 @@
 // @updateURL      https://github.com/NightHackzz/player-tracker-nhz/raw/master/player-tracker-ja-nhz.user.js
 // @downloadURL    https://github.com/NightHackzz/player-tracker-nhz/raw/master/player-tracker-ja-nhz.user.js
 // @description    [2017-02-11.0001] PlayerTracker(nhz) トレース色、追跡、履歴時間指定版.
-// @include        https://www.ingress.com/intel*
-// @include        http://www.ingress.com/intel*
-// @match          https://www.ingress.com/intel*
-// @match          http://www.ingress.com/intel*
-// @include        https://www.ingress.com/mission/*
-// @include        http://www.ingress.com/mission/*
-// @match          https://www.ingress.com/mission/*
-// @match          http://www.ingress.com/mission/*
+// @include        https://*.ingress.com/intel*
+// @include        http://*.ingress.com/intel*
+// @match          https://*.ingress.com/intel*
+// @match          http://*.ingress.com/intel*
+// @include        https://*.ingress.com/mission/*
+// @include        http://*.ingress.com/mission/*
+// @match          https://*.ingress.com/mission/*
+// @match          http://*.ingress.com/mission/*
 // @grant          none
 // ==/UserScript==
 
